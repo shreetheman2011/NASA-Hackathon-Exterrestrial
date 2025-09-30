@@ -2,5 +2,5 @@ import streamlit as st
 
 st.title("Orbit-Ops")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "We're dedicated to doing stuff."
 )
